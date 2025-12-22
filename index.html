@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>WebGIS Wisata Alam dan Budaya</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- KOLOM 1 (MAP) -->
+      <div class="left">
+        <div class="map-filter">
+          <button data-filter="semua" class="active">Semua</button>
+          <button data-filter="wisataAlam">Wisata Alam</button>
+          <button data-filter="wisataReligi">Wisata Religi</button>
+          <button data-filter="infrastruktur">infrastruktur</button>
+        </div>
+        <div id="map"></div>
+      </div>
+
+      <!-- KOLOM 2 (LIST WISATA) -->
+      <div class="right">
+        <h2 id="list-title">Peta Wisata Budaya di Kecamatan Jasinga, Kabupaten Bogor, Jawa Barat</h2>
+        <div id="list-wisata"></div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

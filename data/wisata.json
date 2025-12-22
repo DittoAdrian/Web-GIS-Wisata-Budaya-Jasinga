@@ -1,0 +1,119 @@
+[
+  {
+    "nama": "Makam Syech mbah Muhyiddin",
+    "koordinat": [-6.496366, 106.488621],
+    "foto": "images/makamMbahMuhyidin.jpg",
+    "deskripsi": "Embah Muhidin, atau Syeikh Kamil Muhyidin, adalah seorang ulama besar dari Banten pada akhir abad ke-19. Beliau pernah menimba ilmu agama kepada ulama terkemuka Syeikh Nawawi Al-Bantani di Mekkah. Datang ke Jasinga atas ajakan Ki Abidin, kakak iparnya, Embah Muhidin kemudian menetap dan mendirikan pondok pesantren di wilayah yang kini dikenal sebagai Kampung Parung Sapi. Dari pesantren inilah tradisi Islam berkembang dan menjadi pusat belajar masyarakat sekitar",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "page/mbah-muhyidin.html"
+  },
+  {
+    "nama": "Makam Buyut Ubang",
+    "koordinat": [-6.495664, 106.488301],
+    "foto": "images/makamMbahUbang.jpg",
+    "deskripsi": "Makam ini berumur cukup tua, bisa dibilang adalah salah satu kuburan yg sangat dihormati karena makam ini merupakan makam ayahanda dari mbah muhyiddin yg dimana beliau merupakan orang yg sangat terpandang",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "#"
+  },
+  {
+    "nama": "Batu Kunci",
+    "koordinat": [-6.488962, 106.482506],
+    "foto": "images/batuKunci.jpg",
+    "deskripsi": "Batu kunci nisan merupakan bagian dari struktur makam yang berfungsi untuk menahan dan mengunci posisi nisan agar tetap berdiri kokoh. Batu ini umumnya terbuat dari bahan keras seperti batu andesit, batu kali, atau batu kapur, dan diletakkan di bagian dasar nisan, baik di sisi kepala maupun kaki makam. Keberadaan batu kunci nisan telah dikenal sejak masa lampau, terutama pada makam-makam tradisional dan peninggalan zaman kerajaan maupun kolonial. Selain memiliki fungsi teknis sebagai penopang, batu kunci nisan juga mengandung makna simbolis, yaitu sebagai pengikat antara dunia kehidupan dan kematian serta lambang keteguhan tempat peristirahatan seseorang. Dalam beberapa makam tua, batu ini bahkan dihiasi dengan ukiran khas yang mencerminkan status sosial dan kepercayaan masyarakat pada masanya.",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "#"
+  },
+  {
+    "nama": "Batu Lingga",
+    "koordinat": [-6.489005, 106.482413],
+    "foto": "images/batuLinga.jpg",
+    "deskripsi": "Batu Lingga merupakan simbol suci dalam kebudayaan Hindu yang melambangkan Dewa Siwa sebagai sumber kekuatan dan pencipta kehidupan. Bentuknya menyerupai tiang atau silinder tegak, biasanya terbuat dari batu andesit atau batu hitam, dan sering dipadukan dengan Yoni sebagai pasangannya. Secara historis, batu lingga telah digunakan sejak masa kerajaan-kerajaan Hindu di Indonesia, seperti Kerajaan Mataram Kuno, Kediri, hingga Majapahit. Batu ini umumnya ditemukan di area percandian atau tempat pemujaan sebagai lambang kesucian, kekuasaan, dan kehadiran Dewa Siwa. Dalam konteks spiritual, batu lingga juga melambangkan unsur laki-laki (purusa) yang menjadi simbol kekuatan penciptaan dan keseimbangan alam semesta.",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "#"
+  },
+  {
+    "nama": "Makam makam kuno bersejarah(Garisul)",
+    "koordinat": [-6.501303, 106.49721],
+    "foto": "images/garisul.png",
+    "deskripsi": "Pemakaman Garisul, yang terletak di Desa Kalong Sawah, dipercaya oleh sebagian masyarakat setempat sebagai tempat peristirahatan para raja-raja. Namun, anggapan tersebut hingga kini belum memiliki kajian ilmiah atau bukti sejarah yang mendalam. Pemakaman ini memiliki sejumlah keunikan, terutama pada bentuk batu nisannya yang beragam dan berbeda satu sama lain. Selain itu, pada beberapa nisan juga ditemukan ukiran-ukiran khas, salah satunya berupa tulisan beraksara Arab yang menambah nilai historis dan budaya dari situs pemakaman ini.",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "page/garisul.html"
+  },
+  {
+    "nama": "Makam Kuno Kulantung",
+    "koordinat": [-6.480087, 106.462607],
+    "foto": "images/makamKulantung.png",
+    "deskripsi": "Makam Kuno Kulantung terletak di Desa Jasinga, Kabupaten Bogor, di dalam kompleks pemakaman kuno di sebuah bukit. Situs ini dikenal dengan nisan-nisan kunonya yang memiliki bentuk berbeda untuk menandakan makam laki-laki (berbentuk bulat atau seperti gada) dan perempuan (berbentuk pipih). Makam ini juga sering diziarahi, terutama saat bulan Maulid.",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "page/makam-kulantung.html"
+  },
+  {
+    "nama": "Sungai Cidurian",
+    "koordinat": [-6.495907, 106.491341],
+    "foto": "images/sungaiCidurian.jpg",
+    "deskripsi": "Sungai Cidurian mengalir di wilayah Kecamatan Jasinga dan terus bermuara hingga ke Provinsi Banten. Banyak yang mengira nama Cidurian berasal dari banyaknya pohon durian di sekitar sungai, namun hal ini masih diperdebatkan karena tidak ada kebun durian khusus di daerah tersebut. Nama Cidurian diyakini berasal dari bahasa Sansakerta “Dura Yana”, yang berarti “sungai yang panjang, lebar, dan terpencil.” Pada masa Kerajaan Tarumanagara di bawah Raja Jayasingawarman, sungai ini dijaga oleh Resi Doriyana.  Kini, Sungai Cidurian dimanfaatkan masyarakat untuk memancing serta mencari emas dan timah, meski permasalahan sampah masih sering terjadi. Ke depan, sungai ini direncanakan akan dikembangkan menjadi objek wisata alam, termasuk potensi kegiatan arung jeram",
+    "icon": "titik",
+    "tipe": ["semua", "wisataAlam"],
+    "link": "#"
+  },
+  {
+    "nama": "Bendung Sendung",
+    "koordinat": [-6.495029, 106.491752],
+    "foto": "images/bendungSendung.jpg",
+    "deskripsi": "Bendung Sendu merupakan salah satu peninggalan pada masa pemerintahan Belanda. Berbeda dengan bendungan pada umumnya, bendung memiliki jangkauan yang lebih kecil karena hanya berfungsi mengatur satu aliran sungai. Nama “Sendu” sendiri berasal dari bahasa masyarakat setempat yang berarti bendung. Secara umum, bendung bersifat lebih alami dibandingkan dengan bendungan yang dibuat secara sengaja dan berskala besar.",
+    "icon": "titik",
+    "tipe": ["semua", "infrastruktur"],
+    "link": "#"
+  },
+  {
+    "nama": "Desa Wisata",
+    "koordinat": [-6.49867, 106.488469],
+    "foto": "images/desaWisata.jpg",
+    "deskripsi": "wisata",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "#"
+  },
+  {
+    "nama": "Kebun Bambu",
+    "koordinat": [-6.495873, 106.488597],
+    "foto": "images/kebunBambu.jpg",
+    "deskripsi": "Di sekitar wilayah ini tumbuh banyak pohon bambu. Masyarakat setempat memanfaatkan bambu tersebut untuk membuat berbagai kerajinan, terutama alat musik tradisional seperti karinding, suling, let, dan lainnya.",
+    "icon": "titik",
+    "tipe": ["semua", "wisataAlam"],
+    "link": "#"
+  },
+  {
+    "nama": "Taman Bungar Jasinga",
+    "koordinat": [-6.481193, 106.464491],
+    "foto": "images/tamanBungar.jpg",
+    "deskripsi": "Taman Bugar Jasinga merupakan salah satu ruang terbuka yang menjadi tempat favorit bagi warga setempat untuk bersantai, berkumpul, dan berbincang santai. Di area ini juga terdapat berbagai pelaku UMKM yang berjualan aneka makanan dan produk lokal. Ke depannya, ketika Jasinga dikembangkan sebagai kawasan wisata, taman ini direncanakan menjadi pusat oleh-oleh serta pusat perdagangan UMKM masyarakat setempat.",
+    "icon": "titik",
+    "tipe": ["semua", "infrastruktur"],
+    "link": "#"
+  },
+  {
+    "nama": "Pendopo",
+    "koordinat": [-6.48266, 106.467588],
+    "foto": "images/pendopo.jpg",
+    "deskripsi": "Pendopo ini merupakan bangunan ikonik di Jasinga dan berfungsi sebagai tempat berkumpul warga saat ada acara. Cerita menarik di balik pendopo ini adalah bahwa bangunan ini pernah roboh. Warga setempat kemudian melakukan aksi sosial kepada pemerintah agar pendopo dibangun kembali. Berkat usaha mereka, pendopo akhirnya kembali berdiri dan menjadi simbol penting bagi komunitas Jasinga. Rencananya, jika Jasinga berkembang menjadi daerah wisata, pendopo ini akan digunakan untuk menampilkan berbagai kesenian lokal, seperti tarian, musik tradisional, dan pertunjukan akrobatik.",
+    "icon": "titik",
+    "tipe": ["semua", "infrastruktur"],
+    "link": "page/pendopo.html"
+  },
+  {
+    "nama": "Tugu/Monumen Patung Singa",
+    "koordinat": [-6.4814, 106.4666],
+    "foto": "images/tuguSinga.jpg",
+    "deskripsi": "Patung Singa ini merupakan ikon yang sangat dikenal di Kecamatan Jasinga. melambangkan gerbang kemenangan (naskah Wangsa Kerta Penembahan Cirebon), sementara sumber lain mengaitkannya dengan Jaya Singawarman dari Kerajaan Tarumanegara. Meskipun terdapat beragam versi, keberadaan patung singa ini tetap menjadi simbol kebanggaan dan identitas masyarakat Jasinga hingga kini.",
+    "icon": "titik",
+    "tipe": ["semua", "infrastruktur"],
+    "link": "#"
+  }
+]

@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+ a {
+  color: inherit;
+  text-decoration: none;
+ }
+/* === LAYOUT 2 KOLOM === */
+.container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+.left {
+  width: 65%;
+  padding: 15px;
+}
+
+.right {
+  width: 35%;
+  background: white;
+  padding: 15px;
+  overflow-y: auto;
+  border-left: 2px solid #ddd;
+}
+
+#map {
+  height: 90%;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+/* === LIST WISATA === */
+.list-item {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  background: #f2f2f2;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.list-item:hover {
+  background: #e8e8e8;
+}
+
+/* === DETAIL === */
+.detail {
+  display: none;
+  padding: 10px;
+  background: white;
+  border-radius: 8px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+}
+.detail.active {
+  display: block;
+}
+.detail img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* =============================
+   RESPONSIVE TABLET
+   (Ukuran 768px – 1024px)
+   Tetap 2 kolom, hanya menyesuaikan lebar
+   ============================= */
+@media (max-width: 1024px) {
+  .left {
+    width: 60%;
+  }
+
+  .right {
+    width: 40%;
+  }
+
+  #map {
+    height: 100%;
+  }
+}
+
+/* =====================
+   FILTER BUTTON MAP
+   ===================== */
+.map-filter {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.map-filter button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: #e0e0e0;
+  font-size: 16px;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.map-filter button.active {
+  background: #4caf50;
+  color: white;
+}
+
+.map-filter button:hover {
+  background: #66bb6a;
+  color: white;
+}
+
+/* =============================
+   RESPONSIVE HANDPHONE
+   (Ukuran < 768px)
+   Layout berubah vertikal:
+   - Map di atas
+   - List di bawah
+   ============================= */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .left,
+  .right {
+    width: 100%;
+    padding: 10px;
+
+  }
+
+  #map {
+    height: 300px; /* Atur tinggi map mobile */
+    border-radius: 8px;
+  }
+
+  .right {
+    border-left: none;
+    border-top: 2px solid #ddd;
+    height: auto;
+    max-height: 400px;
+  }
+
+  .map-filter {
+    gap: 5px;
+  }
+  .map-filter button {
+  padding: 8px 8px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #e0e0e0;
+  font-size: 10px;
+  font-weight: 600;
+  transition: 0.2s;
+}
+}
+
+
