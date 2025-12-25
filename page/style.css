@@ -17,6 +17,9 @@ body {
   display: flex;
   justify-content: center;
 }
+.container-information{
+  gap: 5%;
+}
 
 .hero-card {
   background: #fdf4e3;
@@ -26,6 +29,7 @@ body {
   border-radius: 16px;
   overflow: hidden;
   box-shadow: 0 10px 25px rgba(0,0,0,.15);
+  margin-top: 15px;
 }
 
 .hero-image img {

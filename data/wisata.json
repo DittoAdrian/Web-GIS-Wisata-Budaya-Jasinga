@@ -72,12 +72,21 @@
     "link": "#"
   },
   {
+    "nama": "Arung Jeram",
+    "koordinat": [-6.49860, 106.48852],
+    "foto": "images/arungJeram.jpg",
+    "deskripsi": "adalah destinasi yang wajib dikunjungi saat berada di Bogor Barat. Terletak di Kampung Parungsapi, Jasinga, aliran sungai di sini menawarkan jeram-jeram yang menantang namun tetap aman bagi pemula maupun keluarga. Dengan biaya Rp150.000 per orang (minimal 6 orang), Anda akan diajak memacu adrenalin sambil menikmati panorama asri di sepanjang bantaran sungai. Tidak perlu khawatir soal keamanan, karena setiap pengarungan didampingi oleh tim Guide & Rescue profesional serta telah dilengkapi dengan perlindungan",
+    "icon": "titik",
+    "tipe": ["semua", "wisataAlam"],
+    "link": "#"
+  },
+  {
     "nama": "Desa Wisata",
     "koordinat": [-6.49867, 106.488469],
     "foto": "images/desaWisata.jpg",
-    "deskripsi": "wisata",
+    "deskripsi": "Desa wisata ini direncanakan sebagai salah satu destinasi yang dapat menarik kunjungan wisatawan. Namun, hingga saat ini tempat tersebut belum sepenuhnya terealisasi dan masih memerlukan beberapa penyesuaian serta pengembangan. Ke depannya, lokasi ini akan difungsikan sebagai pusat penyewaan arung jeram serta berbagai wahana wisata lainnya.",
     "icon": "titik",
-    "tipe": ["semua", "wisataReligi"],
+    "tipe": ["semua", "wisataAlam"],
     "link": "#"
   },
   {
@@ -115,5 +124,14 @@
     "icon": "titik",
     "tipe": ["semua", "infrastruktur"],
     "link": "#"
+  },
+  {
+    "nama": "Kabuyutan Cicanggong ",
+    "koordinat": [-6.463309, 106.44388],
+    "foto": "images/kujangNaga.jpg",
+    "deskripsi": "Di Kabuyutan Cicanggong, pengunjung dapat mengenal lebih dekat kekayaan budaya Sunda melalui koleksi Kujang, senjata tradisional yang bukan sekadar alat bela diri, melainkan pusaka yang sarat akan makna spiritual dan filosofis. Setiap jenis Kujang memiliki bentuk unik yang mencerminkan nilai-nilai luhur berbeda",
+    "icon": "titik",
+    "tipe": ["semua", "wisataReligi"],
+    "link": "page/kabuyutan-cicanggong.html"
   }
 ]

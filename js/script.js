@@ -74,7 +74,11 @@ function renderData(filter) {
     // === MARKER ===
     let marker = L.marker(item.koordinat, {
       icon: icons[item.icon] || icons.point,
-    }).addTo(markerGroup);
+    }).addTo(markerGroup)
+    .bindTooltip(item.nama,{})
+    .bindPopup(`<div>${item.nama}</div>`,{
+    permanent: true,
+    offset: [0,-20]})
 
     // === LIST ===
     let div = document.createElement("div");
@@ -90,16 +94,16 @@ function renderData(filter) {
   <h3>${item.nama}</h3>
   <p>${item.deskripsi}</p>
   <small>${item.koordinat}</small>
-  </a>
-`;
+  </a>`;
 
-div.appendChild(detail);
-listContainer.appendChild(div);
+  div.appendChild(detail);
+  listContainer.appendChild(div);
 
 // Klik list → toggle + zoom
 div.addEventListener("click", () => {
-  map.setView(item.koordinat, 15, { animate: true });
+  map.setView(item.koordinat, 17, { animate: true });
   toggleDetail(index);
+
 });
 
 // Klik marker → scroll + buka detail
