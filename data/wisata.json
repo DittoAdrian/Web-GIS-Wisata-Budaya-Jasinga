@@ -3,7 +3,7 @@
     "nama": "Makam Syech mbah Muhyiddin",
     "koordinat": [-6.496366, 106.488621],
     "foto": "images/makamMbahMuhyidin.jpg",
-    "deskripsi": "Embah Muhidin, atau Syeikh Kamil Muhyidin, adalah seorang ulama besar dari Banten pada akhir abad ke-19. Beliau pernah menimba ilmu agama kepada ulama terkemuka Syeikh Nawawi Al-Bantani di Mekkah. Datang ke Jasinga atas ajakan Ki Abidin, kakak iparnya, Embah Muhidin kemudian menetap dan mendirikan pondok pesantren di wilayah yang kini dikenal sebagai Kampung Parung Sapi. Dari pesantren inilah tradisi Islam berkembang dan menjadi pusat belajar masyarakat sekitar",
+    "deskripsi": "Embah Muhyiddin, atau Syeikh Kamil Muhyiddin, adalah seorang ulama besar dari Banten pada akhir abad ke-19. Beliau pernah menimba ilmu agama kepada ulama terkemuka Syeikh Nawawi Al-Bantani di Mekkah. Datang ke Jasinga atas ajakan Ki Abidin, kakak iparnya, Embah Muhyiddin kemudian menetap dan mendirikan pondok pesantren di wilayah yang kini dikenal sebagai Kampung Parung Sapi. Dari pesantren inilah tradisi Islam berkembang dan menjadi pusat belajar masyarakat sekitar",
     "icon": "titik",
     "tipe": ["semua", "wisataReligi"],
     "link": "page/mbah-muhyidin.html"
@@ -135,4 +135,5 @@
     "link": "page/kabuyutan-cicanggong.html"
   }
 ]
+
 
