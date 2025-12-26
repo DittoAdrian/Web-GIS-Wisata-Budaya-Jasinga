@@ -111,7 +111,7 @@
     "nama": "Pendopo",
     "koordinat": [-6.48266, 106.467588],
     "foto": "images/pendopo.jpg",
-    "deskripsi": "Pendopo ini merupakan bangunan ikonik di Jasinga dan berfungsi sebagai tempat berkumpul warga saat ada acara. Cerita menarik di balik pendopo ini adalah bahwa bangunan ini pernah roboh. Warga setempat kemudian melakukan aksi sosial kepada pemerintah agar pendopo dibangun kembali. Berkat usaha mereka, pendopo akhirnya kembali berdiri dan menjadi simbol penting bagi komunitas Jasinga. Rencananya, jika Jasinga berkembang menjadi daerah wisata, pendopo ini akan digunakan untuk menampilkan berbagai kesenian lokal, seperti tarian, musik tradisional, dan pertunjukan akrobatik.",
+    "deskripsi": "Pendopo Tersebut merupakan pusat pemerintahan darurat wilayah Bogor dan Lebak yang dipimpin oleh Raden Ipik Gandamana (Bupati Pertama) yang diangkat oleh gubernur Jawabarat Sutardjo Kertohadikusumo. Bangunan tersebut dahulunya merupakan Kewedanaan Jasinga.",
     "icon": "titik",
     "tipe": ["semua", "infrastruktur"],
     "link": "page/pendopo.html"
@@ -135,3 +135,4 @@
     "link": "page/kabuyutan-cicanggong.html"
   }
 ]
+
