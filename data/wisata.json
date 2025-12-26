@@ -15,7 +15,7 @@
     "deskripsi": "Makam ini berumur cukup tua, bisa dibilang adalah salah satu kuburan yg sangat dihormati karena makam ini merupakan makam ayahanda dari mbah muhyiddin yg dimana beliau merupakan orang yg sangat terpandang",
     "icon": "titik",
     "tipe": ["semua", "wisataReligi"],
-    "link": "#"
+    "link": "page/desa-sipak.html"
   },
   {
     "nama": "Batu Kunci",
@@ -48,7 +48,7 @@
     "nama": "Makam Kuno Kulantung",
     "koordinat": [-6.480087, 106.462607],
     "foto": "images/makamKulantung.png",
-    "deskripsi": "Makam Kuno Kulantung terletak di Desa Jasinga, Kabupaten Bogor, di dalam kompleks pemakaman kuno di sebuah bukit. Situs ini dikenal dengan nisan-nisan kunonya yang memiliki bentuk berbeda untuk menandakan makam laki-laki (berbentuk bulat atau seperti gada) dan perempuan (berbentuk pipih). Makam ini juga sering diziarahi, terutama saat bulan Maulid.",
+    "deskripsi": "Makam Kuno Kulantung terletak di Desa Jasinga, Kabupaten Bogor, di dalam kompleks pemakaman kuno di sebuah bukit. Situs ini dikenal dengan nisan-nisan kunonya yang memiliki bentuk berbeda untuk menandakan makam laki-laki (berbentuk bulat atau seperti gada) dan perempuan (berbentuk pipih).",
     "icon": "titik",
     "tipe": ["semua", "wisataReligi"],
     "link": "page/makam-kulantung.html"
@@ -73,21 +73,21 @@
   },
   {
     "nama": "Arung Jeram",
-    "koordinat": [-6.49860, 106.48852],
+    "koordinat": [-6.4986, 106.48852],
     "foto": "images/arungJeram.jpg",
     "deskripsi": "adalah destinasi yang wajib dikunjungi saat berada di Bogor Barat. Terletak di Kampung Parungsapi, Jasinga, aliran sungai di sini menawarkan jeram-jeram yang menantang namun tetap aman bagi pemula maupun keluarga. Dengan biaya Rp150.000 per orang (minimal 6 orang), Anda akan diajak memacu adrenalin sambil menikmati panorama asri di sepanjang bantaran sungai. Tidak perlu khawatir soal keamanan, karena setiap pengarungan didampingi oleh tim Guide & Rescue profesional serta telah dilengkapi dengan perlindungan",
     "icon": "titik",
     "tipe": ["semua", "wisataAlam"],
-    "link": "#"
+    "link": "page/desa-sipak.html"
   },
   {
     "nama": "Desa Wisata",
     "koordinat": [-6.49867, 106.488469],
     "foto": "images/desaWisata.jpg",
-    "deskripsi": "Desa wisata ini direncanakan sebagai salah satu destinasi yang dapat menarik kunjungan wisatawan. Namun, hingga saat ini tempat tersebut belum sepenuhnya terealisasi dan masih memerlukan beberapa penyesuaian serta pengembangan. Ke depannya, lokasi ini akan difungsikan sebagai pusat penyewaan arung jeram serta berbagai wahana wisata lainnya.",
+    "deskripsi": "Desa Sipak tengah dipersiapkan sebagai kawasan wisata terpadu yang mengusung potensi sejarah, budaya, dan geologi lokal. Konsep ini dirancang untuk menghadirkan pengalaman wisata edukatif sekaligus rekreatif bagi pengunjung. Meski belum sepenuhnya terealisasi, pengembangan kawasan terus dilakukan melalui penataan lokasi dan penguatan konsep wisata. Ke depan, Desa Sipak akan dilengkapi fasilitas arung jeram, wahana papalidan, kuliner khas seperti nasi liwet dan ikan Cidurian, serta wisata pertanian. Melalui pengembangan wisata terpadu ini, Desa Sipak diharapkan mampu menjadi destinasi unggulan yang tidak hanya menarik wisatawan, tetapi juga menggerakkan ekonomi masyarakat dan melestarikan nilai sejarah, budaya, serta kekayaan alam setempat.",
     "icon": "titik",
     "tipe": ["semua", "wisataAlam"],
-    "link": "#"
+    "link": "page/desa-sipak.html"
   },
   {
     "nama": "Kebun Bambu",
@@ -135,5 +135,3 @@
     "link": "page/kabuyutan-cicanggong.html"
   }
 ]
-
-
